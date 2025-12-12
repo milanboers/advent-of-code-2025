@@ -28,6 +28,7 @@ dependencies:
 - dijkstra-simple
 - uglymemo
 - random
+- vector
 
 ghc-options:
 - -Wall
